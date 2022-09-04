@@ -1,0 +1,30 @@
+.Home {
+    
+}
+
+.Logo {
+    color: #017804;
+    font-family: 'Racing Sans One';
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+}
+
+.Intro-Text {
+    color: white;
+    padding-left: 5vh;
+}
+
+.intro-green {
+    color: green;
+    display: inline;
+}
+
+.New-Trip {
+    padding-left: 3vh;
+}
+
+.New-Trip-Button {
+    background-color: #1B2A42;
+    color: whitesmoke;
+}
